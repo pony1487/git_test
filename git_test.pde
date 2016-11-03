@@ -12,4 +12,10 @@ void draw()
 {
     fill(0);
     text("Hello World", width / 2, height / 2);
+    function();
+}
+
+void function()
+{
+   println("this is new"); 
 }
