@@ -11,7 +11,8 @@ void setup()
 void draw()
 {
     fill(0);
-    text("Hello World", width / 2, height / 2);
+    text("Hello World", 0, 0);
+   
     function();
 }
 
